@@ -1,0 +1,4 @@
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.AssemblyInfo.cs
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.csproj.CoreCompileInputs.cache
