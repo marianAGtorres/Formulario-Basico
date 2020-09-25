@@ -2,3 +2,12 @@ C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3
 C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.AssemblyInfoInputs.cache
 C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.AssemblyInfo.cs
 C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\bin\Debug\netcoreapp3.1\Formulario Basico.exe
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\bin\Debug\netcoreapp3.1\Formulario Basico.deps.json
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\bin\Debug\netcoreapp3.1\Formulario Basico.runtimeconfig.json
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\bin\Debug\netcoreapp3.1\Formulario Basico.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\bin\Debug\netcoreapp3.1\Formulario Basico.dll
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\bin\Debug\netcoreapp3.1\Formulario Basico.pdb
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.dll
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.pdb
+C:\Users\maria\Desktop\Formulario Basico\Formulario Basico\obj\Debug\netcoreapp3.1\Formulario Basico.genruntimeconfig.cache
